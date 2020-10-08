@@ -1,2 +1,2 @@
-# DIA
-DIA: Desenvolvimento de um Instumentista Autômato
+# Dagda
+Dagda - Software de Auxílio ao Ensino de Música na Educação Básica
