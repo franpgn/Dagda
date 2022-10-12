@@ -12,7 +12,7 @@
     "express": "^4.17.1",
     "fs": "0.0.1-security",
     "jszip": "^3.3.0",
-    "musicxml-interfaces": "0.0.20",
+    "musicxml-interfaces": "0.0.21",
     "node-localstorage": "^2.1.5",
     "nodemon": "^2.0.2",
     "scribbletune": "^3.5.3"
